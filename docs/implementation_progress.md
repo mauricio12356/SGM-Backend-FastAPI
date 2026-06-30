@@ -65,3 +65,6 @@
 
 ## Create purchase order module
 - Added a milestone entry for this implementation step.
+
+## Implement sales module
+- Added a milestone entry for this implementation step.
