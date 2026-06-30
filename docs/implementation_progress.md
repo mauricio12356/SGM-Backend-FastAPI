@@ -71,3 +71,6 @@
 
 ## Add inventory update logic
 - Added a milestone entry for this implementation step.
+
+## Implement report generation service
+- Added a milestone entry for this implementation step.
