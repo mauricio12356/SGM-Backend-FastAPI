@@ -11,3 +11,6 @@
 
 ## Configure environment variables
 - Added a milestone entry for this implementation step.
+
+## Add application configuration
+- Added a milestone entry for this implementation step.
