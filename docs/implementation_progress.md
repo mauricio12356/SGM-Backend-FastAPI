@@ -74,3 +74,6 @@
 
 ## Implement report generation service
 - Added a milestone entry for this implementation step.
+
+## Add health check endpoint
+- Added a milestone entry for this implementation step.
