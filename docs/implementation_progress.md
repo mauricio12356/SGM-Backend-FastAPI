@@ -86,3 +86,6 @@
 
 ## Add request validation with Pydantic
 - Added a milestone entry for this implementation step.
+
+## Improve API exception handling
+- Added a milestone entry for this implementation step.
