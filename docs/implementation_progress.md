@@ -68,3 +68,6 @@
 
 ## Implement sales module
 - Added a milestone entry for this implementation step.
+
+## Add inventory update logic
+- Added a milestone entry for this implementation step.
