@@ -35,3 +35,6 @@
 
 ## Create product entity
 - Added a milestone entry for this implementation step.
+
+## Implement JWT authentication
+- Added a milestone entry for this implementation step.
