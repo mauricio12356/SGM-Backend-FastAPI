@@ -116,3 +116,6 @@
 
 ## Ignore test and coverage artifacts
 - Added a milestone entry for this implementation step.
+
+## Prepare project for production deployment
+- Added a milestone entry for this implementation step.
