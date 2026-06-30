@@ -98,3 +98,6 @@
 
 ## Increase test coverage
 - Added a milestone entry for this implementation step.
+
+## Generate OpenAPI documentation
+- Added a milestone entry for this implementation step.
