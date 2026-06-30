@@ -77,3 +77,6 @@
 
 ## Add health check endpoint
 - Added a milestone entry for this implementation step.
+
+## Refactor service layer
+- Added a milestone entry for this implementation step.
