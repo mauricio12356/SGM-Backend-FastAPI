@@ -62,3 +62,6 @@
 
 ## Add category CRUD endpoints
 - Added a milestone entry for this implementation step.
+
+## Create purchase order module
+- Added a milestone entry for this implementation step.
