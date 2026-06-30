@@ -95,3 +95,6 @@
 
 ## Add authentication unit tests
 - Added a milestone entry for this implementation step.
+
+## Increase test coverage
+- Added a milestone entry for this implementation step.
