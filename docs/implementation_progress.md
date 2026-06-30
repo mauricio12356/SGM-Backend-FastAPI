@@ -80,3 +80,6 @@
 
 ## Refactor service layer
 - Added a milestone entry for this implementation step.
+
+## Improve repository structure
+- Added a milestone entry for this implementation step.
