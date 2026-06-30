@@ -5,3 +5,6 @@
 
 ## Configure project dependencies
 - Added a milestone entry for this implementation step.
+
+## Create project folder structure
+- Added a milestone entry for this implementation step.
