@@ -23,3 +23,6 @@
 
 ## Implement database session management
 - Added a milestone entry for this implementation step.
+
+## Add user entity
+- Added a milestone entry for this implementation step.
