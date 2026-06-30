@@ -89,3 +89,6 @@
 
 ## Improve API exception handling
 - Added a milestone entry for this implementation step.
+
+## Create integration tests
+- Added a milestone entry for this implementation step.
