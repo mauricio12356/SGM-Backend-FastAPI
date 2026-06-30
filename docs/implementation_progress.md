@@ -32,3 +32,6 @@
 
 ## Add supplier entity
 - Added a milestone entry for this implementation step.
+
+## Create product entity
+- Added a milestone entry for this implementation step.
