@@ -83,3 +83,6 @@
 
 ## Improve repository structure
 - Added a milestone entry for this implementation step.
+
+## Add request validation with Pydantic
+- Added a milestone entry for this implementation step.
