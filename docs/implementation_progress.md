@@ -29,3 +29,6 @@
 
 ## Create category entity
 - Added a milestone entry for this implementation step.
+
+## Add supplier entity
+- Added a milestone entry for this implementation step.
