@@ -53,3 +53,6 @@
 
 ## Create user CRUD operations
 - Added a milestone entry for this implementation step.
+
+## Implement product CRUD endpoints
+- Added a milestone entry for this implementation step.
