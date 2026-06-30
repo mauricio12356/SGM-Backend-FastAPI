@@ -104,3 +104,6 @@
 
 ## Update project README
 - Added a milestone entry for this implementation step.
+
+## Add usage examples
+- Added a milestone entry for this implementation step.
