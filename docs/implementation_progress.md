@@ -38,3 +38,6 @@
 
 ## Implement JWT authentication
 - Added a milestone entry for this implementation step.
+
+## Add password hashing support
+- Added a milestone entry for this implementation step.
