@@ -47,3 +47,6 @@
 
 ## Implement user registration endpoint
 - Added a milestone entry for this implementation step.
+
+## Protect private API routes
+- Added a milestone entry for this implementation step.
