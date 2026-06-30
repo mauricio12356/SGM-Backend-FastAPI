@@ -110,3 +110,6 @@
 
 ## Optimize database queries
 - Added a milestone entry for this implementation step.
+
+## Fix validation issues in API
+- Added a milestone entry for this implementation step.
