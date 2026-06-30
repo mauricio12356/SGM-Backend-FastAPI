@@ -14,3 +14,6 @@
 
 ## Add application configuration
 - Added a milestone entry for this implementation step.
+
+## Configure database connection
+- Added a milestone entry for this implementation step.
