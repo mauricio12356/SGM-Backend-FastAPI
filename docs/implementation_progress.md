@@ -101,3 +101,6 @@
 
 ## Generate OpenAPI documentation
 - Added a milestone entry for this implementation step.
+
+## Update project README
+- Added a milestone entry for this implementation step.
