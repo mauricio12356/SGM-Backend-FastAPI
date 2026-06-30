@@ -92,3 +92,6 @@
 
 ## Create integration tests
 - Added a milestone entry for this implementation step.
+
+## Add authentication unit tests
+- Added a milestone entry for this implementation step.
