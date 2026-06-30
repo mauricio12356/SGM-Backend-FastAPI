@@ -1,0 +1,28 @@
+b7e8cdf | Ariel Argudo | docs: exportar especificacion OpenAPI de Swagger
+cde9150 | Edgar Mauricio Carrera | docs: adjuntar historial resumido de commits
+ab18565 | Ariel Argudo | test: registrar evidencia de pruebas aprobadas
+3c6814b | Edgar Mauricio Carrera | chore: agregar scripts de ejecucion para Windows y Linux
+93ff3e7 | Ariel Argudo | docs: registrar asignacion y seguimiento de tareas
+af935c5 | Edgar Mauricio Carrera | docs: documentar instalacion arquitectura y uso
+b89f421 | Ariel Argudo | test: validar flujo de catalogo ventas y reportes
+c142f0b | Edgar Mauricio Carrera | feat: integrar aplicacion FastAPI y datos iniciales
+9c24b77 | Ariel Argudo | feat: agregar reportes y verificacion de salud
+8dae7ca | Edgar Mauricio Carrera | feat: publicar servicios de ventas y compras
+efba886 | Ariel Argudo | feat: publicar servicios de productos y proveedores
+33f6a4f | Edgar Mauricio Carrera | feat: publicar servicios de usuarios y categorias
+9ed9d9a | Ariel Argudo | feat: agregar autenticacion y dependencias de roles
+bc34b91 | Edgar Mauricio Carrera | feat: implementar ordenes y recepcion de mercaderia
+2853f74 | Ariel Argudo | feat: implementar registro y anulacion de ventas
+5121171 | Edgar Mauricio Carrera | feat: implementar servicios de catalogo y usuarios
+9d6bd27 | Ariel Argudo | feat: implementar autenticacion y administrador inicial
+00bc4f7 | Edgar Mauricio Carrera | feat: agregar repositorios especializados
+fc47c49 | Ariel Argudo | feat: crear repositorio generico
+83add6c | Edgar Mauricio Carrera | feat: definir contratos de entrada y salida
+79905a0 | Ariel Argudo | docs: organizar modelos de compras e inventario
+2a7c93e | Edgar Mauricio Carrera | docs: organizar modelos de ventas y facturacion
+c0931ef | Ariel Argudo | docs: identificar modulo de catalogo en modelos
+b39ecaf | Edgar Mauricio Carrera | feat: modelar usuarios y autenticacion
+14cbbdd | Ariel Argudo | feat: implementar seguridad de contrasenas y tokens
+f6e58ac | Edgar Mauricio Carrera | feat: configurar conexion y sesiones de base de datos
+87b2e66 | Ariel Argudo | feat: agregar configuracion de la aplicacion
+bce347d | Edgar Mauricio Carrera | chore: iniciar proyecto y dependencias
