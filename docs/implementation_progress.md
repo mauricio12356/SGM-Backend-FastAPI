@@ -20,3 +20,6 @@
 
 ## Create SQLAlchemy base models
 - Added a milestone entry for this implementation step.
+
+## Implement database session management
+- Added a milestone entry for this implementation step.
