@@ -26,3 +26,6 @@
 
 ## Add user entity
 - Added a milestone entry for this implementation step.
+
+## Create category entity
+- Added a milestone entry for this implementation step.
