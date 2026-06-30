@@ -41,3 +41,6 @@
 
 ## Add password hashing support
 - Added a milestone entry for this implementation step.
+
+## Implement login endpoint
+- Added a milestone entry for this implementation step.
