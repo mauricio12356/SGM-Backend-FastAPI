@@ -113,3 +113,6 @@
 
 ## Fix validation issues in API
 - Added a milestone entry for this implementation step.
+
+## Ignore test and coverage artifacts
+- Added a milestone entry for this implementation step.
