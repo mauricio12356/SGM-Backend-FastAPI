@@ -17,3 +17,6 @@
 
 ## Configure database connection
 - Added a milestone entry for this implementation step.
+
+## Create SQLAlchemy base models
+- Added a milestone entry for this implementation step.
