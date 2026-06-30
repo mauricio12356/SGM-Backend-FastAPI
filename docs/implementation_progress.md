@@ -59,3 +59,6 @@
 
 ## Implement supplier CRUD endpoints
 - Added a milestone entry for this implementation step.
+
+## Add category CRUD endpoints
+- Added a milestone entry for this implementation step.
