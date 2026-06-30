@@ -8,3 +8,6 @@
 
 ## Create project folder structure
 - Added a milestone entry for this implementation step.
+
+## Configure environment variables
+- Added a milestone entry for this implementation step.
