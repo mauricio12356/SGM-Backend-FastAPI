@@ -50,3 +50,6 @@
 
 ## Protect private API routes
 - Added a milestone entry for this implementation step.
+
+## Create user CRUD operations
+- Added a milestone entry for this implementation step.
