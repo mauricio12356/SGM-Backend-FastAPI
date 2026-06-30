@@ -44,3 +44,6 @@
 
 ## Implement login endpoint
 - Added a milestone entry for this implementation step.
+
+## Implement user registration endpoint
+- Added a milestone entry for this implementation step.
